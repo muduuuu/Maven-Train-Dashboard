@@ -41,7 +41,9 @@ Passenger Data: Includes data on passenger numbers for different routes and time
 Revenue Data: Details revenue generated from various ticket types and classes.</br>
 Performance Data: Provides insights into on-time performance and reasons for delays.</br>
 # Snippets:
-![Screenshot 2024-05-28 182304](https://github.com/muduuuu/Maven-Train-Dashboard/assets/108679596/8da541d7-cbdd-44d7-a404-4a89871ee3ed)
+![Screenshot 2024-05-28 191025](https://github.com/muduuuu/Maven-Train-Dashboard/assets/108679596/09ff4877-ec29-486a-ae49-a269e665aa68)
+![Screenshot 2024-05-28 191035](https://github.com/muduuuu/Maven-Train-Dashboard/assets/108679596/1f71042a-9852-4fc2-8e57-1269471f72dc)
+
 </br>
 # Clone the Repository:
 
